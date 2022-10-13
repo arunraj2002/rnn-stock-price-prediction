@@ -27,6 +27,9 @@ To develop a Recurrent Neural Network model for stock price prediction.
 ## PROGRAM:
 
 ```python
+# Developed By: R ARUNRAJ
+# Register Number:212220230004
+
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
